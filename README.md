@@ -2,4 +2,4 @@
 Coronavirus (COVID-19) Tracker App Using REST API & Volley Library
 
 # Screenshots 
-<img src=""image1.jpg>
+
